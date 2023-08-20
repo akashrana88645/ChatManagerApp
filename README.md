@@ -1,6 +1,6 @@
 # Create React Chat App
 
-This is the Hosting Page [My Chat App](https://sayanghoshofficial.github.io/my-chat-app)
+This is the Hosting Page [(https://akashrana88645.github.io/ChatManagerApp/)]
 
 ## Sign In Page
 
